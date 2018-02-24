@@ -59,6 +59,26 @@ h2 {
   color: #BD5D38;
 }
 
+.portfolio-item {
+  width: 100%;
+  padding: 10px;
+}
+
+.portfolio-item {
+  margin: 10px 0;
+  text-align: center;
+}
+
+.portfolio-item > img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 15px;
+}
+
+.portfolio-item .item-caption {
+  word-wrap: break-word;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
   text-transform: uppercase;
